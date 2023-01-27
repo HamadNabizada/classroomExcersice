@@ -5,6 +5,6 @@ using namespace std;
 
 int main()
 {
-    cout << "testing" << endl;
-  cout << "Updating"
+  cout << "testing" << endl;
+  cout << "Updating";
 }
